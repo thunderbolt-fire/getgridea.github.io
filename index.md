@@ -1,5 +1,5 @@
 ## 关系图展示
-![](https://github.com/thunderbolt-fire/getgridea.github.io/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720220113151834.png)
+![](https://cdn.jsdelivr.net/gh/thunderbolt-fire/getgridea.github.io/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720220113151834.png)
 
 ***
 
