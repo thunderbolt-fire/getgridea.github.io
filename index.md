@@ -1,5 +1,6 @@
+# 计算机导论大作业
 ## 关系图展示
-![](https://cdn.jsdelivr.net/gh/thunderbolt-fire/getgridea.github.io/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720220113151834.png)
+![](https://thunderbolt-fire/getgridea.github.io/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720220113151834.png)
 
 ***
 
