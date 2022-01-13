@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 关系图展示
+![](http://m.qpic.cn/psc?/V51ZsU3E4ealG03xknze2UUeOW1uqiyx/TmEUgtj9EK6.7V8ajmQrEMVTEoT6Wa9tG5Fgb10LBQ*0wlv*oLbjGivDY6G3AyEGqMCiB*GGfDzOcHnePeRv.aVNxY4pZAUU9GQIbAL*KXM!/b&bo=YQMjBGEDIwQDFzI!&rf=viewer_4)
 
-You can use the [editor on GitHub](https://github.com/thunderbolt-fire/getgridea.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 资料收集
+### 入门指引
+[学习路线](https://www.bilibili.com/video/BV1gL4y187Wg?spm_id_from=333.999.0.0)
+### 编程语言
+[C++](https://www.bilibili.com/video/BV1et411b73Z?from=search&seid=1337285950393350329&spm_id_from=333.337.0.0)
 
-### Markdown
+[Java](https://space.bilibili.com/37974444?from=search&seid=1337285950393350329&spm_id_from=333.337.0.0)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Python](https://space.bilibili.com/37974444?from=search&seid=8405955015947617492&spm_id_from=333.337.0.0)
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thunderbolt-fire/getgridea.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 专业认识
+笔者认为计算机科学与技术这个专业在未来仍然具有非常大的发展前景，下面笔者来详细谈谈自己的认识。首先，笔者认为每个人应该清楚自己是否适合学习计算机专业。总所周知，现在计算机专业前景很好，但是，具体到计算机专业的学习上来说，还是有很多挑战的。如果在逻辑思维方面的能力较强，并且具备良好的和计算机交互的能力且具有良好的数学功底，那么可以选择这个专业。其次，计算机专业的学习笔者认为还是具有很大的难度的，首先数学功底必不可少，微积分、线性代数、离散数学、组合数学等等，都得学得很精通；另一方面，计算机类的专业课诸如：各大编程语言、数据结构与算法、计算机图形学、操作系统等等也要熟练掌握；最后，还要具备一个良好的英语阅读能力和强大的资料搜寻能力。只有这样才能在这个专业上有所建树。
+***
+## 学业规划
+笔者首先计划的是学好教学范围内的所有课程，在此基础上，多多参加学校的各种开放实验以及github上的开源项目。然后，可以利用空闲时间参加一些比赛项目，如：蓝桥杯，数学建模以及各种大创比赛，互联网+等等。最后，笔者希望能够努力争取到保研资格，继续在此专业深造。
